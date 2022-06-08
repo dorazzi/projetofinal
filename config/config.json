@@ -4,7 +4,7 @@
     "password": "UEQHT_w7Ng1QQexIMc9NahhjN5Qdr3oa",
     "database": "aprymaur",
     "host": "kesavan.db.elephantsql.com",
-    "dialect": "postgress"
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
